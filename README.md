@@ -1,4 +1,4 @@
-# ML-Utils-ProjectTemplate
+# utils-project-template
 
 This is a template for a GIT repository containing project experiments and shared code.
 You can use the structure of this file as a template for the `README.md` file that should be placed at the root of your repo.
